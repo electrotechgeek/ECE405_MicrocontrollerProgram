@@ -1,26 +1,26 @@
 # DO NOT DELETE
 ./obj/boot.o : \
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8ssc.inc\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\lib\GLOBAL~1.INC\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\lib\GLOBAL~1.INC\
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8ssc.inc
 ./obj/main.o :  ./lib/PSoCAPI.h ./lib/UART.h ./lib/UART_C~1.H\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.h
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.h
 ./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
 ./lib/obj/psocconfigtbl.o : \
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
 ./lib/obj/uart.o :  ./lib/UART.inc\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
 ./lib/obj/uart_clock.o :  ./lib/UART_C~1.INC\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
 ./lib/obj/uart_clockint.o :  ./lib/UART_C~1.INC\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
 ./lib/obj/uartint.o :  ./lib/UART.inc\
-   C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C29~1/m8c.inc\
-   E:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc
+   C:\Users\paul\DOCUME~1\GitHub\ECE405~1\MICROP~1\MICROP~1\memory.inc\
+   E:/Cypress/PSOCDE~1/5.2/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
 ./lib/obj/uartplus.o : 
