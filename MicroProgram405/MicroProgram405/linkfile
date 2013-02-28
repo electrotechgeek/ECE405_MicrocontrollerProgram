@@ -1,0 +1,6 @@
+-F0x30 -g -blit:0x1a0.0x7fff 
+ -bdata:0.0x6ff -bSSCParmBlk:0x00F7.0x00FF -BInterruptRAM:0 -Bvirtual_registers  
+ -Bmicroprogram405_RAM 
+ -o"output/MicroProgram405" 
+ ./obj/main.o  
+ E:/Users/paul/DOCUME~1/GitHub/ECE405~1/MICROP~1/MICROP~1/lib/libPSoc.a -LC:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/lib/LMM/eightpages C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/lib/CY8C29000/cms.a C:/PROGRA~2/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/lib/LMM/UASW/MAC/arith.a  
